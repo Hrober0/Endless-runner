@@ -3,10 +3,10 @@ My code from game https://hrober.itch.io/escape-the-simulation <br>
 Game was made on Brackeys Game Jam 2022.1 in week.
 
 Features:
-- Try to escape the simulation while avoiding deadly viruses.
-- Avoid self destructing floor in decaying simulation.
-- Watch over against the fake floors which will kill you immediately once you step onto them!
-- Gather crowns for to get the best possible run ever!
+- Procedural world generation
+- Skill system
+- WebGL save system
+- Player controller 2d
 
 
 ## Interesting parts
