@@ -8,7 +8,7 @@ Features:
 - WebGL save system
 - Player controller 2d
 
-<br>
+
 Game is available on: [itch.io/escape-the-simulation](https://hrober.itch.io/escape-the-simulation)
 
 ## Interesting parts
